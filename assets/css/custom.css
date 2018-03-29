@@ -345,7 +345,7 @@ tr.rowTest {
     box-shadow: 0 4px 2px rgba(0,0,0,0.2);
 }
 
-.button:hover {background: #3e8e41}
+.button:hover {background: #00bcd4}
 
 .button:active {
     background-color: #00bcd4;

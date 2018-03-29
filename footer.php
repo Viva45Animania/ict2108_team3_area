@@ -121,7 +121,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
         
         /* Specifying while column to put filter ddl */
         /* fnGetColumnData = Return array of values from the wanted column */
-        var indexOfMyCol = 5; //6th column
+        var indexOfMyCol = 3; //4th column
         $("#ddlJobs th").each(function (i) {
             if (i === indexOfMyCol) {
                 this.innerHTML = fnCreateOption(dtTable.fnGetColumnData(i));
@@ -133,7 +133,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
         
         /* Specifying while column to put filter ddl */
         /* fnGetColumnData = Return array of values from the wanted column */
-        var indexOfMyColHistory = 1; //2nd column
+        var indexOfMyColHistory = 5; //2nd column
         $("#ddlHistory th").each(function (i) {
             if (i === indexOfMyColHistory) {
                 this.innerHTML = fnCreateOption(dtTableHistory.fnGetColumnData(i));
@@ -145,7 +145,7 @@ $('.panel-group').on('shown.bs.collapse', toggleIcon);
         
         /* Specifying while column to put filter ddl */
         /* fnGetColumnData = Return array of values from the wanted column */
-        var indexOfMyColEngineer = 1; //2nd column
+        var indexOfMyColEngineer = 0; //1st column
         $("#ddlEngineers th").each(function (i) {
             if (i === indexOfMyColEngineer) {
                 this.innerHTML = fnCreateOption(dtTableEngineers.fnGetColumnData(i));
