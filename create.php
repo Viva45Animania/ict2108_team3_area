@@ -66,22 +66,75 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                             </div>
                                         </div>
                                     </div>
+                                    
                                     <div class="row">
                                         <div class="col-md-10 col-md-offset-1">
                                             <div class="form-group label-floating">
-                                                <label class="control-label">Fault Type</label>
+                                                <label class="control-label">Location</label>
                                                 <select class="form-control" id="sel1">
-                                                    <option>Type 1</option>
-                                                    <option>Type 2</option>
-                                                    <option>Type 3</option>
-                                                    <option>Type 4</option>
-                                                    <option>Type 5</option>
-                                                    <option>Type 6</option>
-                                                    <option>Type 7</option>
-                                                    <option>Type 8</option>
-                                                    <option>Type 9</option>
-                                                    <option>Type 10</option>
+                                                    <option>Ben Nevis</option>
+                                                    <option>Average</option>
+                                                    <option>Normal</option>
                                                 </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="row">
+                                        <div class="col-md-10 col-md-offset-1">
+                                            <div class="form-group label-floating">
+                                                <label class="control-label">Location</label>
+                                                <select class="form-control" id="sel1">
+                                                    <option>Aberdeen</option>
+                                                    <option>Bath</option>
+                                                    <option>Ben Nevis</option>
+                                                    <option>Birmingham</option>
+                                                    <option>Bradford</option>
+                                                    <option>Brighton</option>
+                                                    <option>Bristol</option>
+                                                    <option>Blackpool</option>
+                                                    <option>Cambridge</option>
+                                                    <option>Cardiff</option>
+                                                    <option>Coventry</option>
+                                                    <option>Edinburgh</option>
+                                                    <option>Glasgow</option>
+                                                    <option>Leeds</option>
+                                                    <option>Manchester</option>
+                                                    <option>Peterborough</option>
+                                                    <option>Plymouth</option>
+                                                    <option>Portsmouth</option>
+                                                    <option>Sheffield</option>
+                                                    <option>Southampton</option>
+                                                    <option>Stoke-on-Trent</option>
+                                                    <option>Wolverhampton</option>
+                                                    <option>Perth</option>
+                                                    <option>Salisbury</option>
+                                                    <option>Lichfield</option>
+                                                    <option>Iverness</option>
+                                                    <option>Lincoln</option>
+                                                    <option>City of Salford</option>
+                                                    <option>Preston</option>
+                                                    <option>Canterbury</option>
+                                                    <option>Derby</option>
+                                                    <option>Newport</option>
+                                                    <option>Bournemouth</option>
+                                                    <option>Leicester</option>
+                                                    <option>Oxford</option>
+                                                    <option>Liverpool</option>
+                                                    <option>London</option>
+                                                    <option>City of London</option>
+                                                    <option>Belfast</option>
+                                                    <option>Exeter</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="row">
+                                        <div class="col-md-10 col-md-offset-1">
+                                            <div class="form-group label-floating">
+                                                <label class="control-label">Address</label>
+                                                <input type="text" name="address" class="form-control" value="Castlehill, Edinburgh EH1 2NG, UK" disabled>
                                             </div>
                                         </div>
                                     </div>
