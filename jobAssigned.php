@@ -57,7 +57,7 @@
                                                     <td class="danger">1 - Urgent</td>
                                                     <td><a href="pendingJobDetail.php?jobid=#0051">#0051</a></td>
                                                     <td>John Doe</td>
-                                                    <td>Princeton Road</td>
+                                                    <td>Edinburgh</td>
                                                     <td>Type 5</td>
                                                 </tr>
 
@@ -66,7 +66,7 @@
                                                     <td class="danger">1 - Urgent</td>
                                                     <td><a href="pendingJobDetail.php?jobid=#0052">#0052</a></td>
                                                     <td>David Jarvis</td>
-                                                    <td>Clarence Road</td>
+                                                    <td>Edinburgh</td>
                                                     <td>Type 10</td>
                                                 </tr>
 
@@ -75,7 +75,7 @@
                                                     <td class="warning">2 - Average</td>
                                                     <td><a href="pendingJobDetail.php?jobid=#0053">#0053</a></td>
                                                     <td>Samuel James</td>
-                                                    <td>Dover Drive</td>
+                                                    <td>Glasgow</td>
                                                     <td>Type 10</td>
                                                 </tr>
 
@@ -84,7 +84,7 @@
                                                     <td class="success">3 - Normal</td>
                                                     <td><a href="pendingJobDetail.php?jobid=#0054">#0054</a></td>
                                                     <td>Joel Jarvis</td>
-                                                    <td>Fwahla Tone Road</td>
+                                                    <td>Leeds</td>
                                                     <td>Type 6</td>
                                                 </tr>
 
@@ -93,7 +93,7 @@
                                                     <td class="success">3 - Normal</td>
                                                     <td><a href="pendingJobDetail.php?jobid=#0055">#0055</a></td>
                                                     <td>James Writes</td>
-                                                    <td>Balestier Road</td>
+                                                    <td>Peterborough</td>
                                                     <td>Type 7</td>
                                                 </tr> 
                                                 
@@ -102,7 +102,7 @@
                                                     <td class="success">3 - Normal</td>
                                                     <td><a href="completedJobDetail.php?jobid=#0001">#0001</a></td>
                                                     <td>James Writes</td>
-                                                    <td>Princeton Road</td>
+                                                    <td>Aberdeen</td>
                                                     <td>Type 5</td>
                                                 </tr> 
                                                 
@@ -111,7 +111,7 @@
                                                     <td class="warning">3 - Normal</td>
                                                     <td><a href="completedJobDetail.php?jobid=#0098">#0098</a></td>
                                                     <td>Felix James</td>
-                                                    <td>Gem White Road</td>
+                                                    <td>Peterborough</td>
                                                     <td>Type 6</td>
                                                 </tr> 
                                                 
@@ -120,7 +120,7 @@
                                                     <td class="warning">2 - Average</td>
                                                     <td><a href="completedJobDetail.php?jobid=#0072">#0072</a></td>
                                                     <td>Felix James</td>
-                                                    <td>Houseton White Road</td>
+                                                    <td>Aberdeen</td>
                                                     <td>Type 10</td>
                                                 </tr> 
                                                 
@@ -129,7 +129,7 @@
                                                     <td class="warning">2 - Average</td>
                                                     <td><a href="completedJobDetail.php?jobid=#0008">#0008</a></td>
                                                     <td>Felix James</td>
-                                                    <td>Housetone White Road</td>
+                                                    <td>Perth</td>
                                                     <td>Type 6</td>
                                                 </tr> 
                                                 
@@ -138,7 +138,7 @@
                                                     <td class="danger">1 - Urgent</td>
                                                     <td><a href="completedJobDetail.php?jobid=#0007">#0007</a></td>
                                                     <td>Sarah James</td>
-                                                    <td>Princeton Road</td>
+                                                    <td>Salisbury</td>
                                                     <td>Type 3</td>
                                                 </tr> 
                                                 
@@ -147,7 +147,7 @@
                                                     <td class="danger">1 - Urgent</td>
                                                     <td><a href="completedJobDetail.php?jobid=#0002">#0002</a></td>
                                                     <td>Sarah James</td>
-                                                    <td>Housetone White Road</td>
+                                                    <td>Salisbury</td>
                                                     <td>Type 2</td>
                                                 </tr> 
                                                 
@@ -156,7 +156,7 @@
                                                     <td class="danger">1 - Urgent</td>
                                                     <td><a href="completedJobDetail.php?jobid=#0081">#0081</a></td>
                                                     <td>Sam James</td>
-                                                    <td>Princeton Road</td>
+                                                    <td>Southampton</td>
                                                     <td>Type 1</td>
                                                 </tr> 
                                                 
