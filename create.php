@@ -66,20 +66,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                             </div>
                                         </div>
                                     </div>
-                                    
-                                    <div class="row">
-                                        <div class="col-md-10 col-md-offset-1">
-                                            <div class="form-group label-floating">
-                                                <label class="control-label">Location</label>
-                                                <select class="form-control" id="sel1">
-                                                    <option>Ben Nevis</option>
-                                                    <option>Average</option>
-                                                    <option>Normal</option>
-                                                </select>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
+
                                     <div class="row">
                                         <div class="col-md-10 col-md-offset-1">
                                             <div class="form-group label-floating">
@@ -134,7 +121,27 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                         <div class="col-md-10 col-md-offset-1">
                                             <div class="form-group label-floating">
                                                 <label class="control-label">Address</label>
-                                                <input type="text" name="address" class="form-control" value="Castlehill, Edinburgh EH1 2NG, UK" disabled>
+                                                <input type="text" name="address" class="form-control" value="Castlehill, Edinburgh EH1 2NG, UK">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="row">
+                                        <div class="col-md-10 col-md-offset-1">
+                                            <div class="form-group label-floating">
+                                                <label class="control-label">Fault Type</label>
+                                                <select class="form-control" id="sel1">
+                                                    <option>Type 1</option>
+                                                    <option>Type 2</option>
+                                                    <option>Type 3</option>
+                                                    <option>Type 4</option>
+                                                    <option>Type 5</option>
+                                                    <option>Type 6</option>
+                                                    <option>Type 7</option>
+                                                    <option>Type 8</option>
+                                                    <option>Type 9</option>
+                                                    <option>Type 10</option>
+                                                </select>
                                             </div>
                                         </div>
                                     </div>
